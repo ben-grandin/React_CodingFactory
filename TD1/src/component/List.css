@@ -1,0 +1,10 @@
+.list {
+
+}
+
+.list__title {
+    font-size: 20px;
+}
+.list.primary-color .list__title {
+    font-size: 30px
+}
